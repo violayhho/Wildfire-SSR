@@ -1,0 +1,12 @@
+# Pretrained weights & submodule
+models/dinov3/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model checkpoints & logs
+saved_models/
+log_files/
