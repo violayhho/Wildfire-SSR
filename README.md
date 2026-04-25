@@ -167,10 +167,7 @@ If this code contributes to your research, please kindly consider citing our pap
 
 ## Acknowledgments
 
-This project builds on [DINOv3](https://github.com/facebookresearch/dinov3) (Meta FAIR) for the satellite-pretrained vision backbone and [CLIP](https://github.com/openai/CLIP) (OpenAI) for the text encoder. Thanks for their excellent work!
-
-The DINOv3 code used by this repository is distributed under its own license — see [DINOv3_LICENSE/LICENSE.md](DINOv3_LICENSE/LICENSE.md).
-
+This project builds on [DINOv3](https://github.com/facebookresearch/dinov3) (Meta FAIR) for the satellite-pretrained vision backbone and [CLIP](https://github.com/openai/CLIP) (OpenAI) for the text encoder. Users are responsible for complying with the respective model licenses. Thanks for their excellent work!
 
 ## Star History
 
