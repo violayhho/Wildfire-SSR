@@ -43,7 +43,7 @@
 **Step 1: Clone the Wildfire-SSR repository**
 
 ```bash
-git clone {{TODO: repo URL}}
+git clone https://github.com/violayhho/Wildfire-SSR.git
 cd Wildfire-SSR
 ```
 
