@@ -26,7 +26,7 @@
 
 ## Updates
 - **`November 17th, 2026`**: Our paper is now available on arXiv.
-* **` April 23th, 2026`**: The model and scripts for training and inference have been uploaded.
+* **`April 23th, 2026`**: The model and scripts for training and inference have been uploaded.
 
 ## Overview
 
