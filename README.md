@@ -19,7 +19,7 @@
 </div>
 
 
-[![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)]() Coming Soon
+[![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2611.21563)
 
 [**Overview**](#overview) | [**Getting Started**](#getting-started) | [**Citation**](#citation)
 
