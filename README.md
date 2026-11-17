@@ -161,7 +161,15 @@ Console output reports per-class risk F1, harmonic-mean risk F1, and building-lo
 If this code contributes to your research, please kindly consider citing our paper and give this repo ⭐️ :)
 
 ```
-{{TODO: BibTeX entry for Wildfire-SSR}}
+@misc{ho2026wildfiressrgeolocationawaremultimodalfusion,
+      title={Wildfire-SSR: Geolocation-Aware Multimodal Fusion for Structure-Level Wildfire Risk Assessment}, 
+      author={Yu-Hsuan Ho and Yiming Xiao and Hao-En Lai and Ali Mostafavi and Samuel D. Brody},
+      year={2026},
+      eprint={2611.21563},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2611.21563}, 
+}
 ```
 
 
